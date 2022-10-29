@@ -2,9 +2,9 @@
 *::before,
 *::after {
     background-color: #b4b7b9;
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .main-box {
