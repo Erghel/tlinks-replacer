@@ -9,9 +9,9 @@
         "default_title": "Re:Telegram"
     },
     "content_scripts": [
-        {
-          "matches": ["<all_urls>"],
-          "js": ["tlinks.js"]
-        }
-      ]
+      {
+        "matches": ["<all_urls>"],
+        "js": ["tlinks.js"]
+      }
+    ]
 }
